@@ -1,0 +1,46 @@
+.searchLocation,
+.searchItem {
+    display: inline-block;
+    width: 300px;
+    height: 50px;
+    border: 2px solid #138496;
+    border-radius : 5px;
+    background-color: white;
+    padding: auto 25%;
+}
+
+.seachIcon{
+    margin: 5px;
+    font-size: 25px;
+    color: #138496;
+}
+
+.locationInput,
+.itemInput{
+    border : none;
+    margin: 0px;
+    height: 45px;
+    outline: none;
+    font-size: 20px;
+    width: 200px;
+    padding-left: 10px;
+}
+.itemInput{
+    width: 460px !important;
+}
+.searchItem {
+    width: 505px !important;
+}
+
+.searchLocation{
+    margin-bottom: 5px;
+    margin-right: 20px;
+
+}
+.chevronIcon{
+    font-size : 28px;
+    margin: 5px;
+    margin-left: 15px;
+    cursor: pointer;
+    color: #138496;
+}

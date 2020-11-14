@@ -1,0 +1,27 @@
+.class1:hover{
+    color: black;
+}
+
+.social:hover{
+    color: #138496 !important;
+}
+
+.emailInput,
+.passwordInput{
+    width: 310px;
+    height: 40px;
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid;
+    border-radius: 3px;
+}
+
+.emailInput:focus,
+.passwordInput:focus{
+    outline-color: #138496;
+    border-color: #138496;
+}
+
+.container{
+    max-width: 1400px !important;
+}

@@ -1,0 +1,36 @@
+.descrption-container,
+.price,
+.ad,
+.cover,
+.sellerContacr{
+    height: auto;
+    width: 100%;
+    border: 1px solid #CCD5D6;
+    border-radius: 3px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.sellerImage{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%
+}
+
+.phone{
+    background: none;
+    border: none;
+    padding-left: 10px;
+    display: inline-block;
+    /* width: 150px; */
+}
+
+.showPhone{
+    cursor: pointer;
+    font-size: 10px;
+    text-align: right;
+}
+
+.showPhone:hover{
+    text-decoration: underline;
+}
